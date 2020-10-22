@@ -1,5 +1,7 @@
 # ARGH-Rumor-Generation
 
+[![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uh9iZ4IFM3YQJTMIKrfmXb8hTxNEyUIx?usp=sharing)
+
 ## Description:
 
     This repository contains the demo and datasets for ARGH!: Automated Rumor Generation Hub
