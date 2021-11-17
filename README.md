@@ -27,12 +27,15 @@ The demo can be accessed on Google Colab through this url: https://colab.researc
 # Citation:
 Please cite [our paper](https://dl.acm.org/doi/abs/10.1145/3459637.3481894) if you use code from this repo:
 
-    @inproceedings{huynh2021argh,
-      title={ARGH! Automated Rumor Generation Hub},
-      author={Huynh, Larry and Nguyen, Thai and Goh, Joshua and Kim, Hyoungshick and Hong, Jin B},
-      booktitle={Proceedings of the 30th ACM International Conference on Information \& Knowledge Management},
-      pages={3847--3856},
-      year={2021}
-    }
-    
-    Huynh, L., Nguyen, T., Goh, J., Kim, H., & Hong, J. B. (2021, October). ARGH! Automated Rumor Generation Hub. In Proceedings of the 30th ACM International Conference on Information & Knowledge Management (pp. 3847-3856).
+```
+@inproceedings{huynh2021argh,
+  title={ARGH! Automated Rumor Generation Hub},
+  author={Huynh, Larry and Nguyen, Thai and Goh, Joshua and Kim, Hyoungshick and Hong, Jin B},
+  booktitle={Proceedings of the 30th ACM International Conference on Information \& Knowledge Management},
+  pages={3847--3856},
+  year={2021}
+}
+```
+```    
+Huynh, L., Nguyen, T., Goh, J., Kim, H., & Hong, J. B. (2021, October). ARGH! Automated Rumor Generation Hub. In Proceedings of the 30th ACM International Conference on Information & Knowledge Management (pp. 3847-3856).
+```
