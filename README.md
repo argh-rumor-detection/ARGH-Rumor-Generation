@@ -7,6 +7,7 @@ The ARGH software was developed for academic purposes to augment rumor datasets 
 
 ## Description:
 This repository contains the demo and datasets for [ARGH!: Automated Rumor Generation Hub](https://dl.acm.org/doi/abs/10.1145/3459637.3481894)
+<br>
 Larry Huynh, Thai Nguyen, Joshua Goh, Hyoungshick Kim, Jin B. Hong
 
 # Datasets:
